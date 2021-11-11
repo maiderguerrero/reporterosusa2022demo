@@ -5043,6 +5043,15 @@ background-image: url(imagenes/icono_rubric_reporteros.PNG);
     margin-right: 10px;
 }
 
+.item-container .icon-materials:before {
+	background-image: url(imagenes/icono_materials_reporterosusa.png);
+width: 19px;
+    height: 23px;;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+
 /**TABLA**/
 table,
 .bck-table {
