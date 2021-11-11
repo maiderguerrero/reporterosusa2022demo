@@ -3705,7 +3705,7 @@ font-family: 'FontAwesome';
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #009A5A;
+    border-top: 10px solid #18812B;
     margin-top: 38px;
 }
 
@@ -3714,7 +3714,7 @@ font-family: 'FontAwesome';
 .bck-box.bck-box-13 {
     border: none;
     border-radius: 0px;
-    background: #DCEFF2;
+    background: #D8E1E8;
 	padding: 10px;
 }
 
@@ -3752,7 +3752,7 @@ font-family: 'FontAwesome';
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #00A6BA;
+    border-top: 10px solid #017C91;
     margin-top: 38px;
 }
 
@@ -3761,7 +3761,7 @@ font-family: 'FontAwesome';
 .bck-box.bck-box-14 {
     border: none;
     border-radius: 0px;
-    background: #FCEAE7;
+    background: #FCE0DC;
 	padding: 10px;
 }
 
@@ -3893,7 +3893,7 @@ font-family: 'FontAwesome';
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #F19A00;
+    border-top: 10px solid #d58001;
     margin-top: 38px;
 }
 
@@ -3977,7 +3977,7 @@ font-family: 'FontAwesome';
 	background: #18812B;
     font-weight: bold;
     color: #fff;
-    padding: 5px 20px;
+    padding: 5px 20px 0px;
     border: 0px;
     margin: auto;
     border-top-left-radius: 10px;
@@ -3988,7 +3988,7 @@ font-family: 'FontAwesome';
     -o-width: fit-content;
     width: fit-content;
     font-size: 24px;
-    margin-top: -27px;
+    margin-top: -32px;
 }
 
 .bck-box.bck-box-19 > .bck-title:before {
@@ -4001,7 +4001,7 @@ font-family: 'FontAwesome';
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-top: 10px solid #009A5A;
-    margin-top: 30px;
+    margin-top: 37px;
 }
 
 
@@ -4048,6 +4048,7 @@ font-family: 'FontAwesome';
     background: #FADBCB;
     margin-left: 50px;
     border-radius: 5px;
+    font-size: 22px;
 }
 
 .bck-box.bck-box-22 > .bck-content {
