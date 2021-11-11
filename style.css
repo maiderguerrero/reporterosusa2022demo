@@ -1508,7 +1508,7 @@ border-left: 10px solid transparent;
     display: inline-block;
     padding-top: 130px;
     text-align: center;
-    padding-bottom: 35px;
+    padding-bottom: 45px;
     border-radius: 1px 0px 55px 13px;
     box-shadow: 5px 4px 8px -3px #8c8c8c;
 }
@@ -1531,14 +1531,15 @@ border-left: 10px solid transparent;
     border-bottom: 36px solid transparent;
     border-top: 31px solid transparent;
     border-right: 33px solid #7f1010;
-    margin-left: 67.5px;
-    margin-top: -25.6px;
+    margin-left: 68.4px;
+    margin-top: -15.6px;
     transform: rotate(43deg);
     border-radius: 0px;
     border-top-left-radius: 22px;
     border-top-right-radius: 21px;
     border-bottom-right-radius: 32px;
 }
+
 
 /*ENFASIS 27*/
 .bck-enfasis-27 {
