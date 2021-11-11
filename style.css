@@ -3345,7 +3345,7 @@ font-family: 'FontAwesome';
 /*CAJA 3*/
 .bck-box.bck-box-3 {
 	background: #FEF6EB;
-    border: 2px dotted #F19A00;
+    border: 2px dotted #d58001;
     border-radius: 15px;
     color: #333;
     padding: 20px;
@@ -3816,7 +3816,7 @@ font-family: 'FontAwesome';
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #E4535D;
+    border-top: 10px solid #e5243e;
     margin-top: 38px;
 }
 
@@ -4017,7 +4017,7 @@ font-family: 'FontAwesome';
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 10px solid #009A5A;
+    border-top: 10px solid #18812B;
     margin-top: 37px;
 }
 
@@ -4030,6 +4030,7 @@ font-family: 'FontAwesome';
     border-bottom-right-radius: 15px;
     background-color: #E3E4E7;
     border: 10px solid #000;
+    background-image: url(imagenes/fondo_caja20_reporterosusa.jpg);
 }
 
 .bck-box.bck-box-20 > .bck-content {
