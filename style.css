@@ -6367,7 +6367,7 @@ table td.bck-td-9 {
 
 /**descripcion emergente*/
 .bck-tooltip {
-    color: #797676;
+    color: #000;
     font-weight: 500;
     text-decoration: none;
 }
