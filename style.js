@@ -145,9 +145,7 @@
 				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-28' } },
 
 				{ name: 'Icono Parejas Negro', element: 'span', attributes: { 'class': 'icon icon-parejas-negro' } },
-				{ name: 'Icono Parejas Blanco', element: 'span', attributes: { 'class': 'icon icon-parejas-blanco' } },
 				{ name: 'Icono Grupos Negro', element: 'span', attributes: { 'class': 'icon icon-grupos-negro' } },
-				{ name: 'Icono Grupos Blanco', element: 'span', attributes: { 'class': 'icon icon-grupos-blanco' } },
 				{ name: 'Icono Campana Azul', element: 'span', attributes: { 'class': 'icon icon-campana-azul' } },
 				{ name: 'Icono Campana Morado', element: 'span', attributes: { 'class': 'icon icon-campana-morado' } },
 				{ name: 'Icono Campana Teja', element: 'span', attributes: { 'class': 'icon icon-campana-teja' } },
