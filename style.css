@@ -812,11 +812,11 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 
 .bck-file-attach:before {
 	content: " ";
-    background-image: url(imagenes/icono_rubric_reporteros.PNG);
+    background-image: url(imagenes/icono_rubric_reporteros.png);
     background-repeat: no-repeat;
-    padding: 10px;
+    padding: 15px;
     background-size: contain;
-    margin-top: 0px;
+    margin-top: -8px;
     position: absolute;
     margin-left: -5px;
 }
@@ -830,9 +830,9 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 	max-width: 100%;
 	text-overflow: ellipsis;
 	overflow: hidden;
-	padding-left: 12px;
+	padding-left: 15px;
 	vertical-align: middle;
-	font-size: 1.8rem;
+	font-size: 22px;
 }
 
 
@@ -6850,11 +6850,14 @@ a:hover {
 
 #actividad a {
 background: transparent;
+font-size: 22px;
+text-decoration: underline;
 }
 
 #actividad a, body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img){
 	background-color: transparent;
 	/*margin-bottom: auto;*/
+	text-decoration: underline;
 }
 
 #actividad textarea {
