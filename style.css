@@ -280,6 +280,12 @@ button.btn.btn-primary.disabled {
 	font-weight: 400;
 }
 
+/*Imágenes con lupa*/
+
+.bck-i-fullscreen-wrapper {
+	padding: 0px;
+}
+
 /*Material de apoyo*/
 
 .js-material-items .title {
