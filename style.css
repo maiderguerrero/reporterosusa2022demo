@@ -994,7 +994,7 @@ margin-top: 0px;
     border: 4px double #797676;
     font-weight: 700;
     border-radius: 20px;
-    padding: 6px 12px 2px 12px;
+    padding: 9px 12px 2px 12px;
     -moz-width: fit-content;
     -ms-width: fit-content;
     -webkit-width: fit-content;
@@ -1367,9 +1367,10 @@ border-left: 10px solid transparent;
 .bck-enfasis-11 {
 	color: #fff;
     border-radius: 8px;
-    padding: 4px 18px 0px 18px;
+    padding: 8px 18px 0px 18px;
     background-color:  #D58001;
 	margin-bottom: 10px;
+	font-size: 22px;
 }
 
 
@@ -1377,8 +1378,9 @@ border-left: 10px solid transparent;
 .bck-enfasis-12 {
 	color: #fff;
     border-radius: 8px;
-    padding: 4px 18px 0px 18px;
     background-color: #C3422E;
+    font-size: 22px;
+    padding: 8px 18px 0px 18px;
  }
 
 /*ENFASIS 13*/
@@ -1386,8 +1388,9 @@ border-left: 10px solid transparent;
 .bck-enfasis-13 {
     color: #fff;
     border-radius: 8px;
-    padding: 4px 18px 0;
     background-color: #017C91;
+    font-size: 22px;
+    padding: 8px 18px 0px 18px;
 }
 
 
@@ -1780,7 +1783,7 @@ margin-left: auto;
 	z-index: 0;
 	font-weight: bold;
 	color: #025864;
-	font-size: 2.2rem;
+	font-size: 24px;
 }
 
 
