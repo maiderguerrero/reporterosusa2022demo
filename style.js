@@ -142,6 +142,7 @@
 				{ name: 'Caja 25', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-25' } },
 				{ name: 'Caja 26', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-26' } },
 				{ name: 'Caja 27', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-27' } },
+				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-28' } },
 
 				{ name: 'Icono Parejas Negro', element: 'span', attributes: { 'class': 'icon icon-parejas-negro' } },
 				{ name: 'Icono Parejas Blanco', element: 'span', attributes: { 'class': 'icon icon-parejas-blanco' } },
@@ -166,10 +167,12 @@
 				{ name: 'Icono Cabeza Engranajes', element: 'span', attributes: { 'class': 'icon icon-cabeza-engranajes' } },
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
 				{ name: 'Icono Rubric', element: 'span', attributes: { 'class': 'icon icon-rubric' } },
+				{ name: 'Icono Materials', element: 'span', attributes: { 'class': 'icon icon-materials' } },
 				
 				{ name: 'Tabla 1', element: 'table', attributes: { 'class': 'bck-table-1' } },
 				{ name: 'Tabla 2', element: 'table', attributes: { 'class': 'bck-table-2' } },
 				{ name: 'Tabla 3', element: 'table', attributes: { 'class': 'bck-table-3' } },
+				{ name: 'Tabla 4', element: 'table', attributes: { 'class': 'bck-table-4' } },
 
 				{ name: 'Celda 1', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td-2' } },
