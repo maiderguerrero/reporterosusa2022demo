@@ -5245,6 +5245,18 @@ table td.bck-td-9 {
 }
 
 
+/*CELDA 10*/
+table td.bck-td-10 {
+	background-color: #9b2590;
+	color: #fff;
+	font-family: 'Conv_Calibre';
+	font-weight: bold;
+}
+
+table.bck-table-10 td.bck-td-4 {
+	border-color: #fff;
+}
+
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
