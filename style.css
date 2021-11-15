@@ -2807,6 +2807,7 @@ margin-left: auto;
 #actividad .content .texto_curso .bck-ul-4,
 #actividad .content .workspace ul li .bck-ul-4 {
 	list-style-type: none;
+	margin-top: -17px;
 }
 
 #actividad .content .cke_contents .bck-ul-4 li,
@@ -2817,7 +2818,7 @@ margin-left: auto;
 	padding-left: 52px;
     position: relative;
     list-style: none;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-left: 8px;
 }
 
