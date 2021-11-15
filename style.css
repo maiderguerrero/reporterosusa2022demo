@@ -4083,51 +4083,48 @@ font-family: 'FontAwesome';
 
 /*CAJA 23*/
 .bck-box.bck-box-23 {
-	background: #FEF6EB;
-    border: 2px dotted #F19A00;
-    border-radius: 15px;
-    color: #333;
-    padding: 20px;
+    border: none;
+    border-radius: 0px;
+    background: #DCE4F5;
+	padding: 10px;
+}
+
+.bck-box.bck-box-23 > .bck-content {
+	padding: 25px;
+	background: #DCE4F5;
+	border-radius: 0px;
+	font-size: 2.2rem;
 }
 
 .bck-box.bck-box-23 > .bck-title {
-	color: #F19A00;
-    background: #fff;
-    padding: 7px 10px 0px 10px;
-    border: 1px solid #F19A00;
+	background: #2880C3;
+    font-weight: bold;
+    color: #fff;
+    padding: 15px 20px 0 20px;
+    border: 0px;
+    margin: auto;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    text-align: center;
     -moz-width: fit-content;
     -ms-width: fit-content;
     -webkit-width: fit-content;
     -o-width: fit-content;
     width: fit-content;
-    margin-top: -40px;
-    margin-left: 20px;
-    font-size: 2.52rem;
+    font-size: 2.4rem;
+    margin-top: -38px;
 }
 
-
-.bck-box.bck-box-23 > .bck-content {
-	color: #333;
-    background: #FEF6EB;
-    padding: 5px;
-    font-size: 2.2rem;
-    padding-top: 15px;
-}
-
-.bck-box.bck-box-23 .bck-title:before {
-	content: "";
-	background-image: url(imagenes/before_tick_testcultural_reporterosusa.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 30px;
-	right: 0px;
-	position: absolute;
-	z-index: 1;
-    margin-right: 20px;
-    margin-top: -10px;
+.bck-box-23 > .bck-title:before {
+	content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #2880C3;
+    margin-top: 38px;
 }
 
 /*CAJA 24*/
