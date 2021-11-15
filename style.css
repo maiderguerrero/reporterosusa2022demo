@@ -2806,7 +2806,7 @@ margin-left: auto;
 #actividad .content .cke_contents .bck-ul-4,
 #actividad .content .texto_curso .bck-ul-4,
 #actividad .content .workspace ul li .bck-ul-4 {
-    list-style-type: none;
+	list-style-type: none;
 }
 
 #actividad .content .cke_contents .bck-ul-4 li,
@@ -2814,26 +2814,29 @@ margin-left: auto;
 #actividad .content .texto_curso .bck-ul-4 li,
 #actividad .popover-content .bck-ul-4 li,
 #actividad .content .workspace ul li .bck-ul-4 li {
-    padding-left: 35px;
-    position: relative;
-    list-style-type: none;
-    margin-bottom: 10px;
+	padding-left: 35px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 10px;
 	margin-left: 8px;
+	
 }
 
 #actividad .content .cke_contents .bck-ul-4 li:before,
 #actividad .content .texto_curso ul.bck-ul-4 li:before,
 #actividad .popover-content ul.bck-ul-4 li:before,
 #actividad .content .workspace ul li ul.bck-ul-4 li:before {
-    font-family: 'FontAwesome';
-    content: "\f068";
-    background: none;
-    color: #3482BF;
+	content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%;
     position: absolute;
-    margin-top: -0.2em;
+    margin-top: .45em;
     margin-left: -2px;
-    font-size: 1rem;
 }
+
 
 /*LISTA DESORDENADA 5*/
 #actividad .content .cke_contents .bck-ul-5,
