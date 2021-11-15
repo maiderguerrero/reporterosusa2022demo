@@ -1381,7 +1381,13 @@ border-left: 10px solid transparent;
 
  /*ENFASIS 14*/
 .bck-enfasis-14 {
-	color: #00B2C0;
+	color: #fff;
+    border-radius: 5px;
+    padding: 13px 15px 7px 15px;
+    background-color: #E51421;
+    margin-bottom: 10px;
+    font-size: 22px;
+    display: inline-block;
  }
 
 
