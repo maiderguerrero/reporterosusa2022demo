@@ -4611,7 +4611,7 @@ width: 19px;
 }
 
 .item-container .icon-rubric:before {
-background-image: url(imagenes/icono_rubric_reporteros.png);
+	background-image: url(imagenes/icono_rubric_reporteros.png);
     width: 14px;
     height: 23px;
     margin-right: 10px;
@@ -4619,7 +4619,7 @@ background-image: url(imagenes/icono_rubric_reporteros.png);
 
 .item-container .icon-materials:before {
 	background-image: url(imagenes/icono_materials_reporterosusa.png);
-width: 19px;
+	width: 19px;
     height: 23px;;
     margin-right: 5px;
     margin-top: -5px;
