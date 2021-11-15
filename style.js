@@ -35,10 +35,6 @@
 				{ name: 'Título 20', element: 'h3', attributes: { 'class': 'bck-title bck-title-20'} },
 				{ name: 'Título 21', element: 'h3', attributes: { 'class': 'bck-title bck-title-21'} },
 				{ name: 'Título 22', element: 'h3', attributes: { 'class': 'bck-title bck-title-22'} },
-				{ name: 'Título 23', element: 'h3', attributes: { 'class': 'bck-title bck-title-23'} },
-				{ name: 'Título 24', element: 'h3', attributes: { 'class': 'bck-title bck-title-24'} },
-				{ name: 'Título 25', element: 'h3', attributes: { 'class': 'bck-title bck-title-25'} },
-				{ name: 'Título 26', element: 'h3', attributes: { 'class': 'bck-title bck-title-26'} },
 				
 
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
@@ -66,9 +62,6 @@
 				{ name: 'Énfasis 23', element: 'span', attributes: { 'class': 'bck-enfasis-23'} },
 				{ name: 'Énfasis 24', element: 'span', attributes: { 'class': 'bck-enfasis-24'} },
 				{ name: 'Énfasis 25', element: 'span', attributes: { 'class': 'bck-enfasis-25'} },
-				{ name: 'Énfasis 26', element: 'span', attributes: { 'class': 'bck-enfasis-26'} },
-				{ name: 'Énfasis 27', element: 'span', attributes: { 'class': 'bck-enfasis-27'} },
-				{ name: 'Énfasis 28', element: 'span', attributes: { 'class': 'bck-enfasis-28'} },
 
 
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
@@ -90,12 +83,7 @@
 				{ name: 'Lista Ordenada 17', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-17' } },
 				{ name: 'Lista Ordenada 18', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-18' } },
 				{ name: 'Lista Ordenada 19', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-19' } },
-				{ name: 'Lista Ordenada 20', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-20' } },
-				{ name: 'Lista Ordenada 21', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-21' } },
-				{ name: 'Lista Ordenada 22', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-22' } },
-				{ name: 'Lista Ordenada 23', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-23' } },
-				{ name: 'Lista Ordenada 24', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-24' } },
-				{ name: 'Lista Ordenada 25', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-25' } },
+
 
 				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
 				{ name: 'Lista Desordenada 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
@@ -108,12 +96,7 @@
 				{ name: 'Lista Desordenada 09', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-9' } },
 				{ name: 'Lista Desordenada 10', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-10' } },
 				{ name: 'Lista Desordenada 11', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-11' } },
-				{ name: 'Lista Desordenada 12', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-12' } },
-				{ name: 'Lista Desordenada 13', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-13' } },
-				{ name: 'Lista Desordenada 14', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-14' } },
-				{ name: 'Lista Desordenada 15', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-15' } },
-				{ name: 'Lista Desordenada 16', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-16' } },
-				{ name: 'Lista Desordenada 17', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-17' } },
+
 
 				{ name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-1' } },
 				{ name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-2' } },
@@ -183,9 +166,7 @@
 				{ name: 'Celda 9', element: 'td', attributes: { 'class': 'bck-td-9' } },
 				{ name: 'Celda 10', element: 'td', attributes: { 'class': 'bck-td-10' } },
 
-				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-2' } },
-				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-3' } }
+				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } }
 			]
 		},
 		slidesTitle: {},
