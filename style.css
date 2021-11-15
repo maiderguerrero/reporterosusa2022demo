@@ -5154,6 +5154,16 @@ table.bck-table-3 td {
 	padding: 5px;
 }
 
+/*TABLA 4*/ 
+table.bck-table-4 {
+	border: 2px solid #9b2590;
+}
+
+
+table.bck-table-4 td {
+    border-color: #9b2590;
+}
+
 /*CELDA 1*/
 table td.bck-td-1 {
 	background-color: #D58001;
