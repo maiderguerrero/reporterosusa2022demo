@@ -2814,12 +2814,11 @@ margin-left: auto;
 #actividad .content .texto_curso .bck-ul-4 li,
 #actividad .popover-content .bck-ul-4 li,
 #actividad .content .workspace ul li .bck-ul-4 li {
-	padding-left: 35px;
-	position: relative;
-	list-style: none;
-	margin-bottom: 10px;
-	margin-left: 8px;
-	
+	padding-left: 52px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 10px;
+    margin-left: 8px;
 }
 
 #actividad .content .cke_contents .bck-ul-4 li:before,
@@ -2833,8 +2832,8 @@ margin-left: auto;
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: .45em;
-    margin-left: -2px;
+    margin-top: 8px;
+    margin-left: 22px;
 }
 
 
