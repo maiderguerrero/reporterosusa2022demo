@@ -4250,6 +4250,52 @@ font-family: 'FontAwesome';
     font-size: 26px;
 }
 
+/*CAJA 28*/
+.bck-box.bck-box-28 {
+    border: none;
+    border-radius: 0px;
+    background: #FADCEB;
+	padding: 10px;
+}
+
+.bck-box.bck-box-28 > .bck-content {
+	padding: 25px;
+	background: #FADCEB;
+	border-radius: 0px;
+	font-size: 2.2rem;
+}
+
+.bck-box.bck-box-28 > .bck-title {
+	background: #E5007D;
+    font-weight: bold;
+    color: #fff;
+    padding: 15px 20px 0 20px;
+    border: 0px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-width: fit-content;
+    -ms-width: fit-content;
+    -webkit-width: fit-content;
+    -o-width: fit-content;
+    width: fit-content;
+    font-size: 2.4rem;
+    margin-top: -38px;
+}
+
+.bck-box-28 > .bck-title:before {
+	content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #E5007D;
+    margin-top: 38px;
+}
+
 /*CAJA POP-UP*/
 .popover-title {
     margin: 0;
