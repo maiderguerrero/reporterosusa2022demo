@@ -1339,22 +1339,13 @@ border-left: 10px solid transparent;
 
 /*ENFASIS 10*/
 .bck-enfasis-10 {
-	background-color: #990381;
-	color: #fff;
-	border-radius: 3px;
-    padding: 3px 15px 0px 15px;
-    text-align: center;
+	color: #e30613;
+	font-size: 1.8rem;
+	font-weight: bold;
 }
 
 .bck-enfasis-10:before {
-	content: "";
-    display: block;
-    position: absolute;
-    border-bottom: 10px solid transparent;
-    border-top: 10px solid transparent;
-    border-right: 15px solid #990381;
-    margin-left: -14px;
-    margin-top: 0.4px;
+    display: none;
 }
 
 /*ENFASIS 11*/
