@@ -1699,7 +1699,7 @@ margin-left: auto;
 #actividad .content .texto_curso .bck-ol-3 li,
 #actividad .popover-content .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
-	padding-left: 0px;
+	padding-left: 3px;
 	font-size: 2.2rem;
 }
 
@@ -1734,7 +1734,7 @@ margin-left: auto;
 #actividad .popover-content .bck-ol-4 li,
 #actividad .content .workspace ul li .bck-ol-4 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 3px;
 	z-index: 0;
 	font-size: 2.2rem;
 }
@@ -2023,7 +2023,7 @@ margin-left: auto;
 #actividad .popover-content .bck-ol-11 li,
 #actividad .content .workspace ul li .bck-ol-11 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 3px;
 	z-index: 0;
 	font-size: 2.2rem;
 	margin-left: -1px;
@@ -2191,7 +2191,7 @@ margin-left: auto;
 #actividad .popover-content .bck-ol-15 li,
 #actividad .content .workspace ul li .bck-ol-15 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 3px;
 	z-index: 0;
 	font-size: 2.2rem;
 }
@@ -2346,7 +2346,7 @@ margin-left: auto;
 #actividad .content .texto_curso .bck-ol-19 li,
 #actividad .popover-content .bck-ol-19 li,
 #actividad .content .workspace ul li .bck-ol-19 li {
-	padding-left: 0px;
+	padding-left: 3px;
 	color: #fff;
 	font-size: 2.2rem;
 	margin-left: -11px;
@@ -2565,7 +2565,7 @@ margin-left: auto;
 #actividad .popover-content .bck-ol-24 li,
 #actividad .content .workspace ul li .bck-ol-24 li {
 	counter-increment: bck-li-counter;
-	padding-left: 0px;
+	padding-left: 3px;
 	z-index: 0;
 	font-size: 2.2rem;
 }
