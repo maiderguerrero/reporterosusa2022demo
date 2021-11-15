@@ -3190,7 +3190,7 @@ font-family: 'FontAwesome';
 	list-style: none;
 	margin-bottom: 0px;
 	font-size: inherit;
-	line-height: 27px; 
+	line-height: 27px !important; 
 }
 
 #actividad .content .cke_contents .bck-ul-15 li:before,
@@ -3204,7 +3204,7 @@ font-family: 'FontAwesome';
     color: #333;
     border-radius: 50%;
     position: absolute;
-    margin-top: 5px;
+    margin-top: 7px;
     margin-left: 6px;
     border: 1px solid #333;
 }
