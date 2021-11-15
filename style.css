@@ -2740,24 +2740,29 @@ margin-left: auto;
 #actividad .popover-content .bck-ul-2 li,
 #actividad .content .workspace ul li .bck-ul-2 li {
 	padding-left: 35px;
-	position: relative;
-	list-style-type: none;
-	margin-bottom: 10px;
-	margin-left: 8px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    font-family: 'Conv_PT_Sans-Web';
+    font-size: 20px;
+    color: #3476AB;
 }
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
 #actividad .content .texto_curso ul.bck-ul-2 li:before,
 #actividad .popover-content ul.bck-ul-2 li:before,
 #actividad .content .workspace ul li ul.bck-ul-2 li:before {
-	font-family: 'FontAwesome';
-    content: "\f068";
-    background: none;
-    color: #333;
+	content: "";
+    height: 6px;
+    width: 6px;
+    background-color: transparent;
+    color: #3476AB;
+    border-radius: 50%;
     position: absolute;
-    margin-top: -0.2em;
+    margin-top: 11px;
     margin-left: -2px;
-    font-size: 1rem;
+    border: 1px solid #3476AB;
 }
 
 /*LISTA DESORDENADA 3*/
