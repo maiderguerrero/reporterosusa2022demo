@@ -4258,6 +4258,10 @@ font-family: 'FontAwesome';
 	padding: 15px 0 10px 0;
 }
 
+#actividad .workspace.clasificar .clasificar_conjuntos span.solucion img {
+	padding-bottom: 10px;
+}
+
 /*Arrastrar texto a imagen*/
 
 #actividad .drag .circulo_gris p {
