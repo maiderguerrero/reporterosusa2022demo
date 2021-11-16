@@ -4901,6 +4901,11 @@ table.bck-table-4 td.bck-td-10 {
 }
 */
 
+body:not(.edit) .modal.in .modal-dialog,
+body:not(.edit) .modal.fade .modal-dialog {
+    width: 350px;
+}
+
 .modal-dialog-center.audio-recording {
 	width: 350px;
     margin: auto;
