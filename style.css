@@ -4742,14 +4742,22 @@ table.bck-table-2 td.bck-td-2 {
 }
 
 /*CELDA 3*/
+
+
 table td.bck-td-3 {
-	background-color: #E3E4E7;
-	    font-family: 'Conv_Calibre';
+	background-color: #9b2590;
+	color: #fff;
+	font-family: 'Conv_Calibre';
+	font-weight: bold;
+}
+
+table.bck-table-4 td.bck-td-3 {
+	border-color: #fff;
 }
 
 /*CELDA 4*/
 table td.bck-td-4 {
-	background-color: #025864;
+	background-color: #D91F52;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4757,7 +4765,7 @@ table td.bck-td-4 {
 
 /*CELDA 5*/
 table td.bck-td-5 {
-	background-color: #ab3a8e;
+	background-color: #2D6C73;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4766,7 +4774,7 @@ table td.bck-td-5 {
 
 /*CELDA 6*/
 table td.bck-td-6 {
-	background-color: #f39400;
+	background-color: #197126;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4775,7 +4783,7 @@ table td.bck-td-6 {
 
 /*CELDA 7*/
 table td.bck-td-7 {
-	background-color: #99c11a;
+	background-color: #C94280;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4783,7 +4791,7 @@ table td.bck-td-7 {
 
 /*CELDA 8*/
 table td.bck-td-8 {
-	background-color: #00B0B9;
+	background-color: #006DA8;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4791,7 +4799,7 @@ table td.bck-td-8 {
 
 /*CELDA 9*/
 table td.bck-td-9 {
-	background-color: #771b6e;
+	background-color: #007A88;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -4800,16 +4808,11 @@ table td.bck-td-9 {
 
 /*CELDA 10*/
 table td.bck-td-10 {
-	background-color: #9b2590;
+	background-color: #767B24;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
 }
-
-table.bck-table-4 td.bck-td-10 {
-	border-color: #fff;
-}
-
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
