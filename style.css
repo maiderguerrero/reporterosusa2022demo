@@ -494,7 +494,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #list-units .unittag_morado_reporterosusa2022:hover, 
 #list-units .unittag_azulclaro_reporterosusa2022.active:not(.disabled), 
 #list-units .unittag_azulclaro_reporterosusa2022:hover, 
-#list-units .unittag_verde_reporterosusa2022.active:not(.disabled), 
+#list-units .unittag_verde_reporterosusa20222.active:not(.disabled), 
 #list-units .unittag_verde_reporterosusa2022:hover, 
 #list-units .unittag_rosa_reporterosusa2022.active:not(.disabled), 
 #list-units .unittag_rosa_reporterosusa2022:hover, 
@@ -4935,55 +4935,55 @@ body:not(.edit) .modal.fade .modal-dialog {
 /*TAGS*/
 
 /*--------------------------------------------------TAGS TOC---------------------------------------------*/
-#list-units .unittag_gris_reporterosusa:hover,
-#list-units .unittag_rojo_reporterosusa:hover,
-#list-units .unittag_azulclaro_reporterosusa:hover,
-#list-units .unittag_verde_reporterosusa:hover,
-#list-units .unittag_azuloscuro_reporterosusa:hover,
-#list-units .unittag_naranja_reporterosusa:hover,
-#list-units .unittag_teja_reporterosusa:hover,
-#list-units .unittag_gris_reporterosusa.active:not(.disabled),
-#list-units .unittag_rojo_reporterosusa.active:not(.disabled),
-#list-units .unittag_azulclaro_reporterosusa.active:not(.disabled),
-#list-units .unittag_verde_reporterosusa.active:not(.disabled),
-#list-units .unittag_azuloscuro_reporterosusa.active:not(.disabled),
-#list-units .unittag_naranja_reporterosusa.active:not(.disabled),
-#list-units .unittag_teja_reporterosusa.active:not(.disabled) {
+#list-units .unittag_gris_reporterosusa2022:hover,
+#list-units .unittag_rojo_reporterosusa2022:hover,
+#list-units .unittag_azulclaro_reporterosusa2022:hover,
+#list-units .unittag_verde_reporterosusa2022:hover,
+#list-units .unittag_azuloscuro_reporterosusa2022:hover,
+#list-units .unittag_morado_reporterosusa2022:hover,
+#list-units .unittag_rosa_reporterosusa2022:hover,
+#list-units .unittag_gris_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_rojo_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_azulclaro_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_verde_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_azuloscuro_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_morado_reporterosusa2022.active:not(.disabled),
+#list-units .unittag_rosa_reporterosusa2022.active:not(.disabled) {
 	background-color: #000000 !important;
 }
 
 /*Gris*/
-#list-units .unittag_gris_reporterosusa {
+#list-units .unittag_gris_reporterosusa2022 {
 	background-color: #706f6f !important;
 }
 
 /*Rojo*/
-#list-units .unittag_rojo_reporterosusa {
+#list-units .unittag_rojo_reporterosusa2022 {
 	background-color: #e30613 !important;
 }
 
 /*Azul claro*/
-#list-units .unittag_azulclaro_reporterosusa {
+#list-units .unittag_azulclaro_reporterosusa2022 {
 	background-color: #6a9ed5 !important;
 }
 
 /*Verde*/
-#list-units .unittag_verde_reporterosusa {
+#list-units .unittag_verde_reporterosusa2022 {
 	background-color: #009c55 !important;
 }
 
 /*Azul oscuro*/
-#list-units .unittag_azuloscuro_reporterosusa {
+#list-units .unittag_azuloscuro_reporterosusa2022 {
 	background-color: #0e4090 !important;
 }
 
 /*Naranja*/
-#list-units .unittag_naranja_reporterosusa {
+#list-units .unittag_morado_reporterosusa2022 {
 	background-color: #f9b000 !important;
 }
 
 /*Teja*/
-#list-units .unittag_teja_reporterosusa {
+#list-units .unittag_rosa_reporterosusa2022 {
 	background-color: #eb5d40 !important;
 }
 
@@ -5007,935 +5007,895 @@ body:not(.edit) .modal.fade .modal-dialog {
    color: #414141;
 }
 
-/*Gris 2*/
 
-#list-units .unittag_gris_reporterosusa2022 {
-    background-color: #6F766F !important;
-}
-
-/*Rojo 2*/
-
-#list-units .unittag_rojo_reporterosusa2022 {
-    background-color: #e30613 !important;
-}
-
-/*Morado 2*/
-
-#list-units .unittag_morado_reporterosusa2022 {
-    background-color: #79639b !important;
-}
-
-/*Azul claro 2*/
-
-#list-units .unittag_azulclaro_reporterosusa2022 {
-    background-color: #3D72B3 !important;
-}
-
-/*Verde 2*/
-
-#list-units .unittag_verde_reporterosusa2022 {
-    background-color: #197126 !important;
-}
-
-/*Rosa 2*/
-
-#list-units .unittag_rosa_reporterosusa2022 {
-    background-color: #de0067 !important;
-}
-
-/*Azul oscuro 2*/
-
-#list-units .unittag_azuloscuro_reporterosusa2022 {
-    background-color: #0e4090 !important;
-}
 
 /*----------------UNIT TAG GRIS------------------------*/
-.unittag_gris_reporterosusa #actividad .content .header .title h3 {
+.unittag_gris_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa #actividad .content .header .title {
+.unittag_gris_reporterosusa2022 #actividad .content .header .title {
 	background: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-title-1 {
+.unittag_gris_reporterosusa2022 .bck-title-1 {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-title-3 {
+.unittag_gris_reporterosusa2022 .bck-title-3 {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-enfasis-25:before {
+.unittag_gris_reporterosusa2022 .bck-enfasis-25:before {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-enfasis-26 {
+.unittag_gris_reporterosusa2022 .bck-enfasis-26 {
     background-color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-enfasis-26:after {
+.unittag_gris_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(91,91,94);
 }
 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_gris_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_gris_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_gris_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_gris_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_gris_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_gris_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_gris_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_gris_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_gris_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #706f6f;
 }
 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_gris_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_gris_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_gris_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #706f6f;
 }
 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_gris_reporterosusa #actividad .content .texto_curso ol.bck-ol-23 li:before, 
-.unittag_gris_reporterosusa #actividad .popover-content ol.bck-ol-23 li:before, 
-.unittag_gris_reporterosusa #actividad .content .workspace ul li ol.bck-ol-23 li:before {
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-23 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .popover-content ol.bck-ol-23 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-23 li:before {
 	background-color: #706f6f;
 }
 
-.unittag_gris_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_gris_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_gris_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_gris_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_gris_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_gris_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #A84995;
 }
 
 
-.unittag_gris_reporterosusa .bck-box.bck-box-1 {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-box-1 > .bck-title {
+.unittag_gris_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-2 {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #706f6f;
 	background: #ececec;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #ececec;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #ececec;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #706f6f;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-22 {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #ececec;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_gris_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_gris_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #706f6f;
 }
 
 
 /*----------------UNIT TAG AZUL CLARO------------------------*/
 
-.unittag_azulclaro_reporterosusa #actividad .content .header .title h3 {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .header .title {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .header .title {
 	background: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-title-1 {
+.unittag_azulclaro_reporterosusa2022 .bck-title-1 {
 	color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-title-3 {
+.unittag_azulclaro_reporterosusa2022 .bck-title-3 {
 	color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-title-5 {
+.unittag_azulclaro_reporterosusa2022 .bck-title-5 {
 	color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa .bck-title-8 {
+.unittag_azulclaro_reporterosusa2022 .bck-title-8 {
 	background-color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa .bck-title-9 {
+.unittag_azulclaro_reporterosusa2022 .bck-title-9 {
 	background-color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa .bck-enfasis-18 {
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-18 {
 	color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa .bck-enfasis-25:before {
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-25:before {
 	color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa .bck-enfasis-26 {
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-26 {
     background-color: #629CD3;
 }
 
-.unittag_azulclaro_reporterosusa .bck-enfasis-26:after {
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(49,81,163);
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content .bck-ol-5 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content .bck-ol-5 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li {
     color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li:before {
     background-color: #ab3a8e;
 }
 
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-6 li:before {
     color: #ab3a8e;
     border: 2px solid #ab3a8e;
 }
 
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso ol.bck-ol-23 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content ol.bck-ol-23 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li ol.bck-ol-23 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-23 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content ol.bck-ol-23 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-23 li:before {
 	background-color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     color: #ab3a8e;
 }
 
-.unittag_azulclaro_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_azulclaro_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_azulclaro_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_azulclaro_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #ab3a8e;
 }
 
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-1 {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box-1 > .bck-title {
+.unittag_azulclaro_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-2 {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #6a9ed5;
 	background: #F2F6FB;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #F2F6FB;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #F2F6FB;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #6a9ed5;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-22 {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #F2F6FB;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_azulclaro_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #6a9ed5;
 }
 
 
 /*----------------UNIT TAG VERDE------------------------*/
-.unittag_verde_reporterosusa #actividad .content .header .title h3 {
+.unittag_verde_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #009c55;
 }
 
-.unittag_verde_reporterosusa #actividad .content .header .title {
+.unittag_verde_reporterosusa2022 #actividad .content .header .title {
 	background: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-title-1 {
+.unittag_verde_reporterosusa2022 .bck-title-1 {
 	color: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-title-3 {
+.unittag_verde_reporterosusa2022 .bck-title-3 {
 	color: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-title-5 {
+.unittag_verde_reporterosusa2022 .bck-title-5 {
 	color: #f39400;
 }
 
-.unittag_verde_reporterosusa .bck-title-8 {
+.unittag_verde_reporterosusa2022 .bck-title-8 {
 	background-color: #f39400;
 }
 
-.unittag_verde_reporterosusa .bck-title-9 {
+.unittag_verde_reporterosusa2022 .bck-title-9 {
 	background-color: #f39400;
 }
 
-.unittag_verde_reporterosusa .bck-enfasis-18 {
+.unittag_verde_reporterosusa2022 .bck-enfasis-18 {
 	color: #f39400;
 }
 
-.unittag_verde_reporterosusa .bck-enfasis-25:before {
+.unittag_verde_reporterosusa2022 .bck-enfasis-25:before {
 	color: #f39400;
 }
 
-.unittag_verde_reporterosusa .bck-enfasis-26 {
+.unittag_verde_reporterosusa2022 .bck-enfasis-26 {
     background-color: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-enfasis-26:after {
+.unittag_verde_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(51,105,33);
 }
 
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-5 li, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-5 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li {
     color: #f39400;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li:before {
     background-color: #f39400;
 }
 
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-6 li:before {
     color: #f39400;
     border: 2px solid #f39400;
 }
 
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #009c55;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #009c55;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #009c55;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso .bck-ol-23 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content .bck-ol-23 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li .bck-ol-23 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso .bck-ol-23 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content .bck-ol-23 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-23 li:before {
 	background-color: #f39400;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     color: #f39400;
 }
 
-.unittag_verde_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_verde_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_verde_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_verde_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_verde_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_verde_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #f39400;
 }
 
 
-.unittag_verde_reporterosusa .bck-box.bck-box-1 {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-box-1 > .bck-title {
+.unittag_verde_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-2 {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #009c55;
 	background: #EEF7F0;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #EEF7F0;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #EEF7F0;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #009c55;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-22 {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #EEF7F0;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_verde_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_verde_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #009c55;
 }
 
 
 /*----------------UNIT TAG AZUL OSCURO------------------------*/
-.unittag_azuloscuro_reporterosusa #actividad .content .header .title h3 {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .header .title {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .header .title {
 	background: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-title-1 {
+.unittag_azuloscuro_reporterosusa2022 .bck-title-1 {
 	color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-title-3 {
+.unittag_azuloscuro_reporterosusa2022 .bck-title-3 {
 	color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-title-5 {
+.unittag_azuloscuro_reporterosusa2022 .bck-title-5 {
 	color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-title-8 {
+.unittag_azuloscuro_reporterosusa2022 .bck-title-8 {
 	background-color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-title-9 {
+.unittag_azuloscuro_reporterosusa2022 .bck-title-9 {
 	background-color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-enfasis-18 {
+.unittag_azuloscuro_reporterosusa2022 .bck-enfasis-18 {
 	color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-enfasis-25:before {
+.unittag_azuloscuro_reporterosusa2022 .bck-enfasis-25:before {
 	color: #99c11a;
 }
 
 
-.unittag_azuloscuro_reporterosusa .bck-enfasis-26 {
+.unittag_azuloscuro_reporterosusa2022 .bck-enfasis-26 {
     background-color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-enfasis-26:after {
+.unittag_azuloscuro_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(0,21,97);
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-5 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-5 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li {
     color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li:before {
     background-color: #99c11a;
 }
 
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-6 li:before {
     color: #99c11a;
     border: 2px solid #99c11a;
 }
 
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso .bck-ol-23 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content .bck-ol-23 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li .bck-ol-23 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso .bck-ol-23 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content .bck-ol-23 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-23 li:before {
 	background-color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     color: #99c11a;
 }
 
-.unittag_azuloscuro_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_azuloscuro_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_azuloscuro_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #99c11a;
 }
 
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-1 {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box-1 > .bck-title {
+.unittag_azuloscuro_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-2 {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #0e4090;
 	background: #E8E9F5;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #E8E9F5;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #E8E9F5;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #0e4090;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-22 {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #E8E9F5;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_azuloscuro_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #0e4090;
 }
 
 
-/*----------------UNIT TAG NARANJA------------------------*/
-.unittag_naranja_reporterosusa #actividad .content .header .title h3 {
+/*----------------UNIT TAG MORADO (ANTES NARANJA)------------------------*/
+.unittag_morado_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .header .title {
+.unittag_morado_reporterosusa2022 #actividad .content .header .title {
 	background: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-title-1 {
+.unittag_morado_reporterosusa2022 .bck-title-1 {
 	color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-title-3 {
+.unittag_morado_reporterosusa2022 .bck-title-3 {
 	color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-title-5 {
+.unittag_morado_reporterosusa2022 .bck-title-5 {
 	color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa .bck-title-8 {
+.unittag_morado_reporterosusa2022 .bck-title-8 {
 	background-color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa .bck-title-9 {
+.unittag_morado_reporterosusa2022 .bck-title-9 {
 	background-color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa .bck-enfasis-18 {
+.unittag_morado_reporterosusa2022 .bck-enfasis-18 {
 	color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa .bck-enfasis-25:before {
+.unittag_morado_reporterosusa2022 .bck-enfasis-25:before {
 	color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa .bck-enfasis-26 {
+.unittag_morado_reporterosusa2022 .bck-enfasis-26 {
     background-color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-enfasis-26:after {
+.unittag_morado_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(171,124,0);
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-5 li, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-5 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li {
     color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li:before {
     background-color: #00B0B9;
 }
 
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-6 li:before {
     color: #00B0B9;
     border: 2px solid #00B0B9;
 }
 
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso .bck-ol-23 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content .bck-ol-23 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li .bck-ol-23 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso .bck-ol-23 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content .bck-ol-23 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-23 li:before {
 	background-color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     color: #00B0B9;
 }
 
-.unittag_naranja_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_naranja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_morado_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #00B0B9;
 }
 
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-1 {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-box-1 > .bck-title {
+.unittag_morado_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-2 {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #f9b000;
 	background: #EDF6EF;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #EDF6EF;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #EDF6EF;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #f9b000;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-22 {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #EDF6EF;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_naranja_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_morado_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #f9b000;
 }
 
 
 /*----------------UNIT TAG TEJA------------------------*/
-.unittag_teja_reporterosusa #actividad .content .header .title h3 {
+.unittag_rosa_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa #actividad .content .header .title {
+.unittag_rosa_reporterosusa2022 #actividad .content .header .title {
 	background: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-title-1 {
+.unittag_rosa_reporterosusa2022 .bck-title-1 {
 	color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-title-3 {
+.unittag_rosa_reporterosusa2022 .bck-title-3 {
 	color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-title-5 {
+.unittag_rosa_reporterosusa2022 .bck-title-5 {
 	color: #771b6e;
 }
 
-.unittag_teja_reporterosusa .bck-title-8 {
+.unittag_rosa_reporterosusa2022 .bck-title-8 {
 	background-color: #771b6e;
 }
 
-.unittag_teja_reporterosusa .bck-title-9 {
+.unittag_rosa_reporterosusa2022 .bck-title-9 {
 	background-color: #771b6e;
 }
 
-.unittag_teja_reporterosusa .bck-enfasis-18 {
+.unittag_rosa_reporterosusa2022 .bck-enfasis-18 {
 	color: #771b6e;
 }
 
-.unittag_teja_reporterosusa .bck-enfasis-25:before {
+.unittag_rosa_reporterosusa2022 .bck-enfasis-25:before {
 	color: #771b6e;
 }
 
-.unittag_teja_reporterosusa .bck-enfasis-26 {
+.unittag_rosa_reporterosusa2022 .bck-enfasis-26 {
     background-color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-enfasis-26:after {
+.unittag_rosa_reporterosusa2022 .bck-enfasis-26:after {
     border-right: 33px solid rgb(171,65,43);
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-5 li, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-5 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li {
     color: #771b6e;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-5 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-5 li:before {
     background-color: #771b6e;
 }
 
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-6 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-6 li:before {
     color: #771b6e;
     border: 2px solid #771b6e;
 }
 
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-8 li, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-8 li, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li {
 	color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-8 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-8 li:before {
 	background-color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-9 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso ol.bck-ol-9 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content ol.bck-ol-9 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li ol.bck-ol-9 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-9 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso ol.bck-ol-9 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content ol.bck-ol-9 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ol-23 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso .bck-ol-23 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content .bck-ol-23 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li .bck-ol-23 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ol-23 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso .bck-ol-23 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content .bck-ol-23 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li .bck-ol-23 li:before {
 	background-color: #771b6e;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ul-7 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso ul.bck-ul-7 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content ul.bck-ul-7 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-7 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ul-7 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-7 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content ul.bck-ul-7 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-7 li:before {
     color: #771b6e;
 }
 
-.unittag_teja_reporterosusa #actividad .content .cke_contents .bck-ul-8 li:before, 
-.unittag_teja_reporterosusa #actividad .content .texto_curso ul.bck-ul-8 li:before, 
-.unittag_teja_reporterosusa #actividad .popover-content ul.bck-ul-8 li:before, 
-.unittag_teja_reporterosusa #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+.unittag_rosa_reporterosusa2022 #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_rosa_reporterosusa2022 #actividad .content .workspace ul li ul.bck-ul-8 li:before {
     color: #771b6e;
 }
 
 
-.unittag_teja_reporterosusa .bck-box.bck-box-1 {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-1 {
 	background: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-box-1 > .bck-title {
+.unittag_rosa_reporterosusa2022 .bck-box-1 > .bck-title {
 	background-color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-1 > .bck-content {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-1 > .bck-content {
 	background-color: #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-2 {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-2 {
 	border: 2px dotted #eb5d40;
 	background: #FEF1EC;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-2 > .bck-title {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-2 > .bck-title {
 	background: #FEF1EC;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-2 > .bck-content {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-2 > .bck-content {
     background: #FEF1EC;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-20 > .bck-content {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-20 > .bck-content {
 	border: 3px solid #eb5d40;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-22 {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-22 {
 	background: #FEF1EC;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-22 > .bck-content {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
 	border: 3px solid transparent;
 }
 
-.unittag_teja_reporterosusa .bck-box.bck-box-24 > .bck-title {
+.unittag_rosa_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #eb5d40;
 }
 
