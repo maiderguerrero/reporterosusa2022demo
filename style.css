@@ -6080,6 +6080,11 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     margin-bottom: 9px;
 }
 
+#actividad .workspace.multiple-choice .opcion p img {
+    margin-top: 0;
+    margin-bottom: 9px;
+}
+
 .texto_curso li input {
     height: 1.43em;
     margin: 0;
