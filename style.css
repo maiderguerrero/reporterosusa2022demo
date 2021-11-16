@@ -4201,6 +4201,11 @@ font-family: 'FontAwesome';
     background: #ffd8dc;
 }
 
+#actividad .workspace.chooseblanks .inline-answer a, 
+#actividad .workspace.chooseblanks .inline-answer a:not(.cke_button):not(.zoom_flag_img) {
+    text-decoration: none;
+}
+
 /*Ordenar*/
 
 #actividad .workspace.ordenar li>p {
@@ -6357,3 +6362,8 @@ text-decoration: underline;
 #actividad textarea {
     font-size: 2.2rem;
 }
+
+
+
+
+
