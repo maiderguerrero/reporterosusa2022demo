@@ -4895,7 +4895,7 @@ table.bck-table-4 td.bck-td-10 {
 	background-position: center;
 }
 
-.modal.fade .modal-dialog {
+.modal-backdrop .modal.fade .modal-dialog {
 	width: 350px;
 }
 
