@@ -4901,7 +4901,7 @@ table.bck-table-4 td.bck-td-10 {
 }
 */
 
-.modal-content {
+.modal-dialog-center.audio-recording {
 	width: 350px;
     margin: auto;
 }
