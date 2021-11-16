@@ -744,8 +744,7 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 }
 
 .reporterosusa2022demo-navbar .copyright {
-	color: #fff;
-	line-height: 5.0rem;
+	display: none;
 }
 
 .slider-navigator:hover,
@@ -6074,6 +6073,11 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 /*rellenar espacios*/
 #actividad .workspace.multiplechoice_horizontal .opcion p {
     padding: 8px 5px 0px 7px;
+}
+
+#actividad .workspace.multiplechoice_horizontal .opcion p img {
+	margin-top: 0;
+    margin-bottom: 9px;
 }
 
 .texto_curso li input {
