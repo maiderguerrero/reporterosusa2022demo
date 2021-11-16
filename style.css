@@ -4704,7 +4704,8 @@ table.bck-table-3 {
 
 table.bck-table-3 td {
 	border-color: transparent;
-	padding: 5px;
+    padding: 5px 5px 5px 0px;
+    font-size: 17px;
 }
 
 /*TABLA 4*/ 
