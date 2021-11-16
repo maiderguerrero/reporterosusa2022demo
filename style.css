@@ -4895,6 +4895,10 @@ table.bck-table-4 td.bck-td-10 {
 	background-position: center;
 }
 
+.modal.fade .modal-dialog {
+	width: 350px;
+}
+
 /*Video*/
 .activitytag_mapas_iconovideo:before {
 	content: "";
