@@ -624,6 +624,10 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
     color: #000;
 }
 
+#book-index #indice .unit-content .actividades .item.current .text {
+	color: #fff;
+}
+
 
 
 #book-index #indice .unit-content .material .item .title {
