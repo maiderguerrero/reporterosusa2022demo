@@ -4895,8 +4895,15 @@ table.bck-table-4 td.bck-td-10 {
 	background-position: center;
 }
 
+/*
 .modal-backdrop .modal.fade .modal-dialog {
 	width: 350px;
+}
+*/
+
+.modal-content {
+	width: 350px;
+    margin: auto;
 }
 
 /*Video*/
