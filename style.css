@@ -315,6 +315,11 @@ button.btn.btn-primary.disabled {
     height: 90px;
 }
 
+#indice .unit-content .material .item .imagen.img:after {
+    background-color: #000;
+    border-radius: 50%;
+}
+
 #indice .unit-content .material .item:nth-child(4n) {
     margin-right: 25px;
 }
