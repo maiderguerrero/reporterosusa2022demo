@@ -1018,6 +1018,7 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
     -o-width: fit-content;
     width: fit-content;
 	font-weight: bolder;
+	font-size: 24px;
 }
 
 .bck-title-11:before {
@@ -1229,7 +1230,7 @@ border-left: 10px solid transparent;
 	background: #C3422E;
 	width: 100%;
 	text-align: center;
-	font-size: 2.4rem;
+	font-size: 25px;
 	font-weight: 600;
     padding: 15px;
     padding-bottom: 5px;
@@ -2891,8 +2892,7 @@ font-family: 'FontAwesome';
     background: #fff;
     padding: 6px 10px 0px 10px;
     border: 2px solid #D58001;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-radius: 10px;
     text-align: center;
     -moz-width: fit-content;
     -ms-width: fit-content;
@@ -3492,6 +3492,7 @@ font-family: 'FontAwesome';
 	-webkit-box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
 	-moz-box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
 	box-shadow: rgb(186, 186, 186) 10px 10px 15px 0px;
+	padding: 20px;
 }
 
 .bck-box.bck-box-18 > .bck-content {
@@ -6044,6 +6045,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding-left: 20px;
     max-height: 800%;
 	text-align:center;
+	font-size: 22px;
 }
 
 .bck-dropdown-1 .bck-dropdown-titulo {
