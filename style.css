@@ -4023,6 +4023,10 @@ font-family: 'FontAwesome';
     padding-top: 12px;
 }
 
+#actividad .workspace.matching .opcion img {
+	margin-top: -9px;
+}
+
 /*Crucigrama*/
 
 .slide.crosswords-puzzle table.puzzle input.solution {
