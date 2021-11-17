@@ -3883,6 +3883,7 @@ font-family: 'FontAwesome';
 	font-size: 2.2rem;
 	line-height: 20px;
 	color: #797676;
+	padding-left: 1px;
 }
 
 #actividad .info-button {
