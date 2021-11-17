@@ -3858,6 +3858,11 @@ font-family: 'FontAwesome';
 
 }
 
+.info-popover .popover-title, 
+.popover-template .popover-title .popover-title-text {
+	font-size: 22px;
+}
+
 .info-template .info-title {
 	color: #333;
 }
