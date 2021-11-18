@@ -5269,9 +5269,8 @@ body:not(.edit) .modal.fade .modal-dialog {
 	color: #C94280;
 }
 
-
-.unittag_azulclaro_reporterosusa2022 .bck-enfasis-25 {
-	border: 2px solid #C94280;
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-22:before {
+	color: #C94280;
 }
 
 
@@ -5281,6 +5280,10 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 .unittag_azulclaro_reporterosusa2022 .bck-enfasis-23:after {
 	border-right: 33px solid #4e4271;
+}
+
+.unittag_azulclaro_reporterosusa2022 .bck-enfasis-25 {
+	border: 2px solid #C94280;
 }
 
 
@@ -5762,10 +5765,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	color: #197126;
 }
 
-.unittag_morado_reporterosusa2022 .bck-enfasis-25 {
-	border: 2px solid #197126;
-}
-
 
 .unittag_morado_reporterosusa2022 .bck-enfasis-23 {
 	background-color: #79639b;
@@ -5773,6 +5772,10 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 .unittag_morado_reporterosusa2022 .bck-enfasis-23:after {
 	border-right: 33px solid #4e4271;
+}
+
+.unittag_morado_reporterosusa2022 .bck-enfasis-25 {
+	border: 2px solid #197126;
 }
 
 .unittag_morado_reporterosusa2022 #actividad .content .cke_contents .bck-ol-5 li, 
