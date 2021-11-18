@@ -3862,6 +3862,7 @@ font-family: 'FontAwesome';
 .info-popover .popover-title, 
 .popover-template .popover-title .popover-title-text {
 	font-size: 22px;
+	margin-top: 3px;
 }
 
 .info-template .info-title {
