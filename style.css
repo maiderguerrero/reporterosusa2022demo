@@ -2739,6 +2739,7 @@ font-family: 'FontAwesome';
 #actividad .content .texto_curso .bck-ul-10,
 #actividad .content .workspace ul li .bck-ul-10 {
 	list-style-type: none;
+	margin-bottom: 0px;
 }
 
 #actividad .content .cke_contents .bck-ul-10 li,
