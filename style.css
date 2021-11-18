@@ -4726,6 +4726,70 @@ table.bck-table-4 td {
     border-color: #9b2590;
 }
 
+/*TABLA 5*/ 
+table.bck-table-5 {
+	border: 2px solid #D91F52;
+}
+
+
+table.bck-table-5 td {
+    border-color: #D91F52;
+}
+
+/*TABLA 6*/ 
+table.bck-table-6 {
+	border: 2px solid #2D6C73;
+}
+
+table.bck-table-6 td {
+    border-color: #2D6C73;
+}
+
+/*TABLA 7*/
+table.bck-table-7 {
+	border: 2px solid #197126;
+}
+
+table.bck-table-7 td {
+    border-color: #197126;
+}
+
+/*TABLA 8*/ 
+table.bck-table-8 {
+	border: 2px solid #C94280;
+}
+
+table.bck-table-8 td {
+    border-color: #C94280;
+}
+
+/*TABLA 9*/ 
+table.bck-table-9 {
+	border: 2px solid #006DA8;
+}
+
+table.bck-table-9 td {
+    border-color: #006DA8;
+}
+
+/*TABLA 10*/ 
+table.bck-table-10 {
+	border: 2px solid #007A88;
+}
+
+table.bck-table-10 td {
+    border-color: #007A88;
+}
+
+/*TABLA 11*/ 
+table.bck-table-11 {
+	border: 2px solid #767B24;
+}
+
+table.bck-table-11 td {
+    border-color: #767B24;
+}
+
 /*CELDA 1*/
 table td.bck-td-1 {
 	background-color: #D58001;
