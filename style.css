@@ -5758,6 +5758,10 @@ body:not(.edit) .modal.fade .modal-dialog {
 }
 
 
+.unittag_morado_reporterosusa2022 .bck-enfasis-22:before {
+	color: #197126;
+}
+
 .unittag_morado_reporterosusa2022 .bck-enfasis-25 {
 	border: 2px solid #197126;
 }
