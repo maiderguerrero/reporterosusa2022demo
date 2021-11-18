@@ -910,7 +910,7 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 .bck-title-5 {
 	font-size: 2.6rem;
 	border-bottom: none;
-	color: #025864;
+	color: #2D6C73;
 	font-weight: bold;
 }
 
@@ -937,7 +937,7 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 
 .bck-title-7 {
 	color: #fff;
-	background-color: #025864;
+	background-color: #2D6C73;
 	border-radius: 10px;
 	text-align: center;
 	margin: auto;
@@ -955,7 +955,7 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
 
 .bck-title-8 {
 	color: #fff;
-    background-color: #025864;
+    background-color: #2D6C73;
     padding: 5px 5px 0px 5px;
     font-weight: bold;
     -moz-width: fit-content;
@@ -1393,7 +1393,7 @@ border-left: 10px solid transparent;
 
 /*ENFASIS 17*/
 .bck-enfasis-17 {
-	color: #025864;
+	color: #2D6C73;
 	font-size: 1.8rem;
 	font-weight: bold;
 }
@@ -1434,7 +1434,7 @@ border-left: 10px solid transparent;
 .bck-enfasis-22:before {
     font-family: 'FontAwesome';
     content: '\f062';
-    color: #0B636D;
+    color: #2D6C73;
     padding-right: 4px;
 }
 
@@ -1502,7 +1502,7 @@ border-left: 10px solid transparent;
     border-radius: 8px;
     padding: 4px 8px 0px 8px;
     background-color: #fff;
-    border: 2px solid #017C91;
+    border: 2px solid #2D6C73;
 }
 
 
@@ -1730,7 +1730,7 @@ margin-left: auto;
 	position: relative;
 	z-index: 0;
 	font-weight: bold;
-	color: #025864;
+	color: #2D6C73;
 	font-size: 24px;
 }
 
@@ -1744,7 +1744,7 @@ margin-left: auto;
     font-weight: 700;
     position: absolute;
     color: #fff;
-    background-color: #025864;
+    background-color: #2D6C73;
     font-size: 2.2rem;
     width: 30px;
     height: 30px;
@@ -1785,8 +1785,8 @@ margin-left: auto;
     font-family: Conv_Calibre;
     font-weight: bold;
     position: absolute;
-    color: #025864;
-    border: 2px solid #025864;
+    color: #2D6C73;
+    border: 2px solid #2D6C73;
     background-color: #fff;
     font-size: 1.8rem;
     width: 27px;
@@ -2307,7 +2307,7 @@ margin-left: auto;
     font-weight: bold;
     position: absolute;
     color: #fff;
-    background-color: #025864;
+    background-color: #2D6C73;
     font-size: 2rem;
     width: 28px;
 	height: 28px;
@@ -2585,7 +2585,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     font-family: 'FontAwesome';
     content: "\f061";
     background-color: transparent;
-    color: #025764;
+    color: #2D6C73;
     position: absolute;
     margin-top: -3px;
     margin-left: 0px;
@@ -2617,10 +2617,10 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 #actividad .content .texto_curso ul.bck-ul-6 li:before,
 #actividad .popover-content ul.bck-ul-6 li:before,
 #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-font-family: 'FontAwesome';
+	font-family: 'FontAwesome';
     content: "\f058";
     background-color: #ffffff00;
-    color: #025864;
+    color: #2D6C73;
     position: absolute;
     margin-top: -3px;
     margin-left: -10px;
