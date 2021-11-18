@@ -154,6 +154,13 @@
 				{ name: 'Tabla 02', element: 'table', attributes: { 'class': 'bck-table-2' } },
 				{ name: 'Tabla 03', element: 'table', attributes: { 'class': 'bck-table-3' } },
 				{ name: 'Tabla 04', element: 'table', attributes: { 'class': 'bck-table-4' } },
+				{ name: 'Tabla 05', element: 'table', attributes: { 'class': 'bck-table-5' } },
+				{ name: 'Tabla 06', element: 'table', attributes: { 'class': 'bck-table-6' } },
+				{ name: 'Tabla 07', element: 'table', attributes: { 'class': 'bck-table-7' } },
+				{ name: 'Tabla 08', element: 'table', attributes: { 'class': 'bck-table-8' } },
+				{ name: 'Tabla 09', element: 'table', attributes: { 'class': 'bck-table-9' } },
+				{ name: 'Tabla 10', element: 'table', attributes: { 'class': 'bck-table-10' } },
+				{ name: 'Tabla 11', element: 'table', attributes: { 'class': 'bck-table-11' } },
 
 				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 02', element: 'td', attributes: { 'class': 'bck-td-2' } },
