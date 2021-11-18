@@ -4736,6 +4736,10 @@ table.bck-table-5 td {
     border-color: #D91F52;
 }
 
+table.bck-table-5 td.bck-td-4 {
+    border-color: #fff;
+}
+
 /*TABLA 6*/ 
 table.bck-table-6 {
 	border: 2px solid #2D6C73;
@@ -4743,6 +4747,10 @@ table.bck-table-6 {
 
 table.bck-table-6 td {
     border-color: #2D6C73;
+}
+
+table.bck-table-6 td.bck-td-5 {
+    border-color: #fff;
 }
 
 /*TABLA 7*/
@@ -4754,6 +4762,10 @@ table.bck-table-7 td {
     border-color: #197126;
 }
 
+table.bck-table-7 td.bck-td-6 {
+    border-color: #fff;
+}
+
 /*TABLA 8*/ 
 table.bck-table-8 {
 	border: 2px solid #C94280;
@@ -4761,6 +4773,10 @@ table.bck-table-8 {
 
 table.bck-table-8 td {
     border-color: #C94280;
+}
+
+table.bck-table-8 td.bck-td-7 {
+    border-color: #fff;
 }
 
 /*TABLA 9*/ 
@@ -4772,6 +4788,10 @@ table.bck-table-9 td {
     border-color: #006DA8;
 }
 
+table.bck-table-9 td.bck-td-8 {
+    border-color: #fff;
+}
+
 /*TABLA 10*/ 
 table.bck-table-10 {
 	border: 2px solid #007A88;
@@ -4781,6 +4801,10 @@ table.bck-table-10 td {
     border-color: #007A88;
 }
 
+table.bck-table-10 td.bck-td-9 {
+    border-color: #fff;
+}
+
 /*TABLA 11*/ 
 table.bck-table-11 {
 	border: 2px solid #767B24;
@@ -4788,6 +4812,10 @@ table.bck-table-11 {
 
 table.bck-table-11 td {
     border-color: #767B24;
+}
+
+table.bck-table-11 td.bck-td-10 {
+    border-color: #fff;
 }
 
 /*CELDA 1*/
