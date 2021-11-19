@@ -6612,14 +6612,6 @@ a:hover {
 }
 
 
-/*
-#book-index #indice .unit-content .actividades .item:hover,
-#book-index #indice .unit-content .actividades .item.current,
-#book-index #indice .unit-content .actividades .item:active {
-	background: #000;
-}
-*/
-
 #actividad a {
 background: transparent;
 font-size: 22px;
@@ -6634,4 +6626,21 @@ text-decoration: underline;
 
 #actividad textarea {
     font-size: 2.2rem;
+}
+
+
+/*------------------------------------------QUERIES-------------------------------------------*/
+
+@media screen and (max-width: 375px){
+	.bck-title-1 {
+		font-size: 60px;
+	}
+
+	.bck-title-6 {
+		font-size: 3.6rem;
+	}
+
+	.bck-box.bck-box-22 {
+    	width: 85%;
+	}
 }
