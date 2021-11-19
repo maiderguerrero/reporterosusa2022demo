@@ -6636,8 +6636,27 @@ text-decoration: underline;
 		font-size: 60px;
 	}
 
+	.bck-title-2, 
+	.bck-box .bck-title-2 {
+		font-size: 4rem;
+	}
+
 	.bck-title-6 {
 		font-size: 3.6rem;
+	}
+
+	.bck-box-content .bck-title-9, 
+	.bck-box.bck-box-17 .bck-title.bck-title-9, 
+	.bck-title-9 {
+		font-size: 3.8rem;
+	}
+
+	#actividad .content .cke_contents .bck-ul-6 li, 
+	#actividad .content .cke_contents .bck-ul-6 li, 
+	#actividad .content .texto_curso .bck-ul-6 li, 
+	#actividad .popover-content .bck-ul-6 li, 
+	#actividad .content .workspace ul li .bck-ul-6 li {
+	    margin-left: 2px;
 	}
 
 	.bck-box.bck-box-22 {
