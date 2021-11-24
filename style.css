@@ -706,7 +706,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 .slide_main input {
 	font-size: 2.2rem;
-	padding-top: 7px;
+	padding: 7px 6px 0px 13px;
 }
 
 .slide_main input:focus,
