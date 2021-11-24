@@ -2853,7 +2853,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 2*/
 .bck-box.bck-box-2 {
-	background: #FDEEE7;
+	background: #ffded5;
     border: 2px dotted #e30613;
     border-radius: 15px;
     color: #333;
@@ -2862,14 +2862,14 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 .bck-box.bck-box-2 > .bck-content {
 	color: #333;
-    background: #FDEEE7;
+    background: #ffded5;
     padding: 5px;
     font-size: 2.2rem;
 }
 
 .bck-box.bck-box-2 > .bck-title {
 	color: #333;
-    background: #FDEEE7;
+    background: #ffded5;
     padding: 5px;
     font-size: 2.4rem;
 }
@@ -3599,7 +3599,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 15px;
-    background: #FADBCB;
+    background: #ffbcac;
     margin-left: 50px;
     border-radius: 5px;
     font-size: 22px;
@@ -5284,9 +5284,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #cdcfcd;
 }
 
-.unittag_gris_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-	background-color: #cdcfcd;
-}
 
 .unittag_gris_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #6F766F;
@@ -5462,9 +5459,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #F1EFF6;
 }
 
-.unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-
-}
 
 .unittag_azulclaro_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #3D72B3;
@@ -5639,9 +5633,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #F1EFF6;
 }
 
-.unittag_verde_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-
-}
 
 .unittag_verde_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #197126;
@@ -5818,9 +5809,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #F1EFF6;
 }
 
-.unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-
-}
 
 .unittag_azuloscuro_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #0e4090;
@@ -5997,10 +5985,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #D5D0E3;
 }
 
-.unittag_morado_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-
-}
-
 .unittag_morado_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #79639b;
 }
@@ -6175,9 +6159,6 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #F1EFF6;
 }
 
-.unittag_rosa_reporterosusa2022 .bck-box.bck-box-22 > .bck-content {
-
-}
 
 .unittag_rosa_reporterosusa2022 .bck-box.bck-box-24 > .bck-title {
 	background: #de0067;
