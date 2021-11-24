@@ -6403,7 +6403,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .fillblanks-draggable-wrapper .response.used p {
     text-decoration: line-through;
-    text-decoration-color: #3476ab;
+    text-decoration-color: #d8d8d8;
 }
 
 /*test*/
