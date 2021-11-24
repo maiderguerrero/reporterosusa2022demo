@@ -4286,6 +4286,12 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	background-position-y: -4px;
 }
 
+#actividad .multimedia-container .circulo_gris.editar:before, 
+#actividad .multimedia-container .circulo_gris.drop_solucion:before, 
+#actividad .multimedia-container .circulo_gris.respuesta:before {
+    padding: 8px 5px 2px 5px;
+}
+
 
 /*Arrastrar imágenes a espacios*/
 
@@ -4297,7 +4303,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 .fillblankimages-draggable-wrapper .response {
-    border: 3px solid #3476ab;
+    border: 3px solid #d8d8d8;
 }
 
 .fillblankimages-draggable-wrapper .response p {
