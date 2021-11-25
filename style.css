@@ -1388,6 +1388,8 @@ border-left: 10px solid transparent;
     border-radius: 5px;
     font-family: 'Conv_BebasKai';
 	margin-right: 9px;
+	margin-bottom: 2px;
+    display: inline-block;
 }
 
 
