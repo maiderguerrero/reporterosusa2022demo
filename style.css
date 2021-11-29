@@ -513,6 +513,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #book-index #indice .units ul li {
 	opacity: 1;
 	background-color: #757575;
+	margin-bottom: 2px;
 }
 
 #indice .units ul li:not(.add) a .title {
