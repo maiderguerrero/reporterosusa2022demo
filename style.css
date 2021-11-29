@@ -5107,8 +5107,8 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 #list-units .unittag_punteado_reporterosusa2022 {
     background: transparent !important;
-    outline: 3.2px dotted #414141;
-    outline-offset: -3.2px;
+    outline: 2.5px solid #414141;
+    outline-offset: -2.5px;
 }
 
 .units ul#list-units .unittag_punteado_reporterosusa2022 a .title {
