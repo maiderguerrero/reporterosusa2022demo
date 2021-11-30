@@ -2018,18 +2018,6 @@ margin-left: auto;
     border-radius: 100%;
 }
 
-#actividad .content .workspace.test ul li .bck-ol-5 li:before,
-#actividad .content .workspace.test ul li .bck-ol-7 li:before,
-#actividad .content .workspace.test ul li .bck-ol-9 li:before,
-#actividad .content .workspace.test ul li .bck-ol-11 li:before,
-#actividad .content .workspace.test ul li .bck-ol-12 li:before,
-#actividad .content .workspace.test ul li .bck-ol-14 li:before,
-#actividad .content .workspace.test ul li .bck-ol-16 li:before,
-#actividad .content .workspace.test ul li .bck-ol-17 li:before,
-#actividad .content .workspace.test ul li .bck-ol-18 li:before {
-	padding-top: 8px;
-    margin-top: -9px;
-}
 
 /*LISTA ORDENADA 12*/
 #actividad .content .cke_contents .bck-ol-12,
@@ -4334,24 +4322,20 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*tipo test*/
 
-/*
 #actividad .content .workspace.test ul li .bck-ol-5 li:before,
-#actividad .content .workspace.test ul li .bck-ol-6 li:before,
-#actividad .content .workspace.test ul li .bck-ol-8 li:before,
+#actividad .content .workspace.test ul li .bck-ol-7 li:before,
+#actividad .content .workspace.test ul li .bck-ol-9 li:before,
 #actividad .content .workspace.test ul li .bck-ol-10 li:before,
+#actividad .content .workspace.test ul li .bck-ol-11 li:before,
 #actividad .content .workspace.test ul li .bck-ol-12 li:before,
-#actividad .content .workspace.test ul li .bck-ol-13 li:before,
+#actividad .content .workspace.test ul li .bck-ol-14 li:before,
+#actividad .content .workspace.test ul li .bck-ol-16 li:before,
 #actividad .content .workspace.test ul li .bck-ol-17 li:before,
-#actividad .content .workspace.test ul li .bck-ol-20 li:before,
-#actividad .content .workspace.test ul li .bck-ol-21 li:before,
-#actividad .content .workspace.test ul li .bck-ol-22 li:before,
-#actividad .content .workspace.test ul li .bck-ol-23 li:before,
-#actividad .content .workspace.test ul li .bck-ol-25 li:before {
-	padding-top: 6px;
-	margin-top: -7px;
+#actividad .content .workspace.test ul li .bck-ol-18 li:before {
+	padding-top: 8px;
+    margin-top: -9px;
 }
 
-*/
 
 #actividad .workspace.test .solucion {
     border-bottom: 2px solid #3476ab;
