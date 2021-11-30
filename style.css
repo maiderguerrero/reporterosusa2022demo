@@ -4337,6 +4337,11 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
+#actividad .content .workspace.test ul li .bck-ol-6 li:before {
+	padding-top: 4px;
+    margin-top: -8px;
+}
+
 #actividad .workspace.test .solucion {
     border-bottom: 2px solid #3476ab;
 }
