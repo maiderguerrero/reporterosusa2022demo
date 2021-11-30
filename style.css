@@ -2018,6 +2018,11 @@ margin-left: auto;
     border-radius: 100%;
 }
 
+#actividad .content .workspace.test ul li .bck-ol-11 li:before {
+	padding-top: 6px;
+    margin-top: -7px;
+}
+
 /*LISTA ORDENADA 12*/
 #actividad .content .cke_contents .bck-ol-12,
 #actividad .content .texto_curso .bck-ol-12,
