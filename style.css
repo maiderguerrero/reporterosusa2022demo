@@ -2018,7 +2018,15 @@ margin-left: auto;
     border-radius: 100%;
 }
 
-#actividad .content .workspace.test ul li .bck-ol-11 li:before {
+#actividad .content .workspace.test ul li .bck-ol-5 li:before,
+#actividad .content .workspace.test ul li .bck-ol-7 li:before,
+#actividad .content .workspace.test ul li .bck-ol-9 li:before,
+#actividad .content .workspace.test ul li .bck-ol-11 li:before,
+#actividad .content .workspace.test ul li .bck-ol-12 li:before,
+#actividad .content .workspace.test ul li .bck-ol-14 li:before,
+#actividad .content .workspace.test ul li .bck-ol-16 li:before,
+#actividad .content .workspace.test ul li .bck-ol-17 li:before,
+#actividad .content .workspace.test ul li .bck-ol-18 li:before {
 	padding-top: 8px;
     margin-top: -9px;
 }
