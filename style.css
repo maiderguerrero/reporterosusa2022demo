@@ -6391,6 +6391,10 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     text-decoration-color: #d8d8d8;
 }
 
+.fillblanks-draggable-wrapper .response .count {
+	line-height: 16px;
+}
+
 /*test*/
 #actividad .workspace.test .respuestas li {
     width: 100%;
