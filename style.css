@@ -4334,6 +4334,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*tipo test*/
 
+/*
 #actividad .content .workspace.test ul li .bck-ol-5 li:before,
 #actividad .content .workspace.test ul li .bck-ol-6 li:before,
 #actividad .content .workspace.test ul li .bck-ol-8 li:before,
@@ -4349,6 +4350,8 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	padding-top: 6px;
 	margin-top: -7px;
 }
+
+*/
 
 #actividad .workspace.test .solucion {
     border-bottom: 2px solid #3476ab;
