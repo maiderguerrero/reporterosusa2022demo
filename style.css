@@ -1002,6 +1002,8 @@ body.is_app .reporterosusa2022demo-navbar.ocultar {
     -o-width: fit-content;
     width: fit-content;
     font-size: 2.2rem;
+    margin-bottom: 20px;
+    display: block;
 }
 
 /*TITULO 11*/
@@ -2601,6 +2603,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 #actividad .content .texto_curso .bck-ul-6,
 #actividad .content .workspace ul li .bck-ul-6 {
 	list-style-type: none;
+	margin-left: 2px;
 }
 
 #actividad .content .cke_contents .bck-ul-6 li,
@@ -2637,6 +2640,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 #actividad .content .texto_curso .bck-ul-7,
 #actividad .content .workspace ul li .bck-ul-7 {
     list-style-type: none;
+    margin-left: -9px;
 }
 
 #actividad .content .cke_contents .bck-ul-7 li,
