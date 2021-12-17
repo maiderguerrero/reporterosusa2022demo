@@ -1272,7 +1272,7 @@ border-left: 10px solid transparent;
 /*ENFASIS 5*/
 .bck-enfasis-5 {
     background-color: #FFFC7C;
-    padding: 5px 0 0;
+    padding: 3px;
 }
 
 /*Enfasis 6*/
@@ -1497,9 +1497,10 @@ border-left: 10px solid transparent;
 .bck-enfasis-24 {
 	color: #fff;
     border-radius: 8px;
-    padding: 4px 18px 0px 18px;
     background-color: #990381;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
+    padding: 8px 18px 0px 18px;
+    font-size: 22px;
 }
 
 /*ENFASIS 25*/
