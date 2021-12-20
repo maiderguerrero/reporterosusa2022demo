@@ -4209,7 +4209,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 #actividad .workspace.chooseblanks .solucion {
     border-bottom: 1px solid #3476ab;
     background-color: #dee4ee;
-    padding-top: 8px;
+    padding-top: 3px;
 }
 
 #actividad .workspace.chooseblanks .respuesta_ok,
