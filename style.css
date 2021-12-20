@@ -4141,6 +4141,10 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	font-size: 2.2rem;
 }
 
+.slide.crosswords .respuesta .indice {
+	font-size: 20px;
+}
+
 /*Respuesta multiple*/
 
 #actividad .workspace.multiple-choice .opcion p {
