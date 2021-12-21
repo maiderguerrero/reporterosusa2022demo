@@ -6284,7 +6284,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .bck-tooltip {
     color: #2D6C73;
     font-weight: 500;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 /*flipbox*/
