@@ -3837,7 +3837,15 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA POP-UP*/
 .popover-title {
-    display: none;
+    margin: 0;
+    padding: 12px 14px 6px 14px;
+    font-size: 2.2rem;
+    font-weight: normal;
+    line-height: 18px;
+    background-color: #797676;
+    border-bottom: 1px solid #ebebeb;
+    border-radius: 5px 5px 0 0;
+    color: #fff;
 }
 
 .popover-content {
