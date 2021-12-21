@@ -5306,6 +5306,11 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 /*----------------UNITTAG AZUL CLARO------------------------*/
+
+.unittag_azulclaro_reporterosusa2022 .bck-tooltip {
+    color: #C94280;
+}
+
 .unittag_azulclaro_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #3D72B3;
 }
@@ -5480,6 +5485,11 @@ body:not(.edit) .modal.fade .modal-dialog {
 }
 
 /*----------------UNITTAG VERDE------------------------*/
+
+.unittag_verde_reporterosusa2022 .bck-tooltip {
+    color: #006DA8;
+}
+
 .unittag_verde_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #197126;
 }
@@ -5656,6 +5666,12 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 /*----------------UNITTAG AZUL OSCURO------------------------*/
+
+.unittag_azuloscuro_reporterosusa2022 .bck-tooltip {
+    color: #767B24;
+}
+
+
 .unittag_azuloscuro_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #0e4090;
 }
@@ -5832,6 +5848,11 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 /*----------------UNITTAG MORADO------------------------*/
+
+.unittag_morado_reporterosusa2022 .bck-tooltip {
+    color: #197126;
+}
+
 .unittag_morado_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #79639b;
 }
@@ -6006,6 +6027,11 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 /*----------------UNITTAG ROSA------------------------*/
+
+.unittag_rosa_reporterosusa2022 .bck-tooltip {
+    color: #007A88;
+}
+
 .unittag_rosa_reporterosusa2022 #actividad .content .header .title h3 {
 	color: #de0067;
 }
