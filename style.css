@@ -4713,6 +4713,7 @@ table td,
 .bck-table td {
 	border-color: #ccc;
 	padding: 18px 10px 10px;
+	background-color: #fff;
 }
 
 td,
