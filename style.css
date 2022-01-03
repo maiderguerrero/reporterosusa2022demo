@@ -37,14 +37,14 @@
 
 
 @font-face {
-    font-family: 'Conv_Calibre';
-    src: url('Calibre-BoldItalic.eot');
-    src: url('Calibre-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('Calibre-BoldItalic.woff') format('woff'),
-        url('Calibre-BoldItalic.ttf') format('truetype'),
-        url('Calibre-BoldItalic.svg#Calibre-BoldItalic') format('svg');
-    font-weight: 700;
-    font-style: italic;
+	font-family: 'Conv_Calibre';
+	src: url('fonts/Calibre-BoldItalic.eot');
+	src: local('☺'), 
+	url('fonts/Calibre-BoldItalic.woff') format('woff'), 
+	url('fonts/Calibre-BoldItalic.ttf') format('truetype'), 
+	url('fonts/Calibre-BoldItalic.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
 }
 
 @font-face {
