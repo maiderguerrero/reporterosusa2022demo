@@ -1531,6 +1531,17 @@ border-left: 10px solid transparent;
     padding: 8px 18px 0px 18px;
 }
 
+
+/*ENFASIS 27*/
+
+.bck-enfasis-27 { 
+	background-color: #990381;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Conv_BebasKai';
+}
+
 /**********************HR*****************************/
 hr {
     border-top: 5px solid #fff;
