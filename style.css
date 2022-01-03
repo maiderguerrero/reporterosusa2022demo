@@ -3872,6 +3872,13 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     font-size: 2.2rem;
 }
 
+
+.info-popover .popover-content, 
+.popover-template .popover-content {
+	line-height: 1.2;
+}
+
+
 .info-popover .popover-title:before,
 .popover-template .popover-title:before {
 	color: #728fa6;
