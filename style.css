@@ -2013,7 +2013,7 @@ margin-left: auto;
 #actividad .content .workspace ul li .bck-ol-11 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	padding-left: 57px;
+	/*padding-left: 57px;*/
 }
 
 #actividad .content .cke_contents .bck-ol-11 li,
