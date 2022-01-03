@@ -35,6 +35,18 @@
 	font-style: normal;
 }
 
+
+@font-face {
+    font-family: 'Conv_Calibre';
+    src: url('Calibre-BoldItalic.eot');
+    src: url('Calibre-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Calibre-BoldItalic.woff') format('woff'),
+        url('Calibre-BoldItalic.ttf') format('truetype'),
+        url('Calibre-BoldItalic.svg#Calibre-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
 @font-face {
 	font-family: 'Conv_Calibre';
 	src: url('fonts/Calibre-Semibold.eot');
