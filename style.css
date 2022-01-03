@@ -4882,6 +4882,18 @@ table.bck-table-11 td.bck-td-10 {
     border-color: #fff;
 }
 
+/*TABLA 12*/
+table.bck-table-12 {
+	border: 2px solid transparent;
+}
+
+table.bck-table-12 td {
+	border-color: transparent;
+    padding: 5px 5px 5px 0px;
+    font-size: 22px;
+    background-color: transparent;
+}
+
 /*CELDA 1*/
 table td.bck-td-1 {
 	background-color: #D58001;
