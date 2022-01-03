@@ -43,7 +43,7 @@
         url('Calibre-BoldItalic.woff') format('woff'),
         url('Calibre-BoldItalic.ttf') format('truetype'),
         url('Calibre-BoldItalic.svg#Calibre-BoldItalic') format('svg');
-    font-weight: bold;
+    font-weight: 700;
     font-style: italic;
 }
 
