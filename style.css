@@ -5092,16 +5092,7 @@ table td.bck-td-10 {
     background-position: center;
 }
 
-/*
-body:not(.edit) .modal.in .modal-dialog,
-body:not(.edit) .modal.fade .modal-dialog {
-    width: 350px;
-}
-.modal-dialog-center.audio-recording {
-    width: 350px;
-    margin: auto;
-}
-*/
+
 
 /*Video*/
 .activitytag_mapas_iconovideo:before {
