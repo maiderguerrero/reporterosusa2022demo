@@ -13,7 +13,7 @@
     font-style: normal;
 }
 
-@font-face {
+@font-face {f
     font-family: 'Conv_Calibre';
     src: url('fonts/Calibre-Black.eot');
     src: local('☺'), 
@@ -3243,6 +3243,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     border-top-left-radius: 15px;
     padding: 15px 20px 0 20px;
     font-weight: bold;
+    position: relative;
 }
 
 .bck-box-11 > .bck-title:after {
@@ -3252,9 +3253,9 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     background-size: contain;
     padding: 45px;
     position: absolute;
-    margin-top: -33px;
     margin-right: 24px;
     right: 0;
+    top: -15px;
     z-index: 1;
 }
 
